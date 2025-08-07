@@ -1,9 +1,9 @@
 ## Hello, I'm Khushboo Masih
 
-I'm a data scientist with a background in business and a strong interest in analytics, machine learning, and data-driven decision making<br/>
-My work focuses on transforming raw data into clear insights that support product, business, and operational improvements<br/>
+I'm a data scientist with a background in business and a strong interest in analytics, machine learning, and data-driven decision making.<br/>
+My work focuses on transforming raw data into clear insights that support product, business, and operational improvements.<br/>
 
-I have hands-on experience with Python, SQL, Power BI, and predictive modeling, and I enjoy working on projects that create a measurable impact<br/>
+I have hands-on experience with Python, SQL, Power BI, and predictive modeling, and I enjoy working on projects that create a measurable impact.<br/>
 
 ### Find out more:
 📄 [Portfolio](https://khushboomasih.com/)
